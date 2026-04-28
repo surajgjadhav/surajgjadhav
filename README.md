@@ -1,18 +1,20 @@
-# 👋 Hi, I’m Suraj!  
+# Hi, I'm Suraj Jadhav! 👋
+Senior Full Stack Engineer | Python & Data Engineering | AI & ML Practitioner | Building Scalable Intelligence
 
-I’m a **Full Stack Developer** with 4 years of experience, currently transitioning into the exciting world of **Web3 Development**. Over the past 2 years, I’ve been diving deep into blockchain technologies, specializing in **decentralized applications (DApps)** and **smart contracts**.  
+I am a Senior Software Engineer with over 5 years of experience architecting high-performance financial platforms and AI-integrated applications. I Specialized in building type-safe, serverless architectures using React, Node.js, and AWS, with a solid technical foundation in LLMs, Transformer architectures, and Machine Learning. I am an engineer who enjoys bridging the gap between robust software architecture and practical AI/ML applications. Recently, I have been focused on leveraging Hugging Face and fast.ai to explore AI-integrated workflows and optimizing data processing at scale.
 
-- 🌟 **Tech Stack**: React, TypeScript, Next.js, Wagmi, Ethers.js, Python, Solidity  
-- 🚀 **Passionate About**: Building impactful Web3 solutions, DeFi, RWAs, and advancing decentralization  
-- 🛠️ **Notable Projects**:  
-  - **[De-Cars](https://de-cars.vercel.app/)**: A full-stack Web3 DApp for vintage car marketplaces, built from scratch  
-  - **[Trustless Pass](https://ethglobal.com/showcase/trustless-pass-ap4fj)**: Frontend developer for the project that won Hedera's EVM Starter bounty at ETHOnline 2024  
+### 🛠 Technical Toolkit
+- Languages: Python, TypeScript, JavaScript (ES6+), Java, SQL
+- AI & LLMs: Hugging Face (Transformers), fast.ai, NLP, Neural Networks, Predictive Modeling
+- Cloud & DevOps: AWS (Glue, Lambda, S3, Step Functions), Docker, GitHub Actions
+- Data Engineering: PySpark, ETL/ELT pipelines, Database Optimization
 
-I’m collaborative, detail-oriented, and always eager to learn and innovate in the blockchain space.  
+### 🚀 What I'm Currently Focused On
+- GenAI Integration: Building LLM-powered applications using Hugging Face transformers.
+- Data Scalability: Optimizing large-scale data workflows, recently achieving a 70% increase in processing speed and 50% cost reduction by migrating to PySpark.
+- Engineering Excellence: Establishing best practices for team mentorship and enterprise risk governance (AVA/ARA).
 
-- 💼 **Open to**: Full-time, remote, or freelance Web3 opportunities  
-
-### 📫 Let’s connect!  
-- 🐦 [Twitter](https://x.com/surajjadhav63)  
+### 📫 Let’s connect!   
 - 💼 [LinkedIn](https://www.linkedin.com/in/suraj-g-jadhav/)  
 - 📧 [Email Me](mailto:surajjadhavasmi@gmail.com)
+- 🐦 [Twitter](https://x.com/surajjadhav63) 
