@@ -9,9 +9,9 @@ I am a Senior Software Engineer with over 5 years of experience architecting hig
 - Cloud & DevOps: AWS (Glue, Lambda, S3, Step Functions), Docker, GitHub Actions
 - Data Engineering: PySpark, ETL/ELT pipelines, Database Optimization
 
-### 🚀 What I'm Currently Focused On
+### 🚀 What I'm Currently Focusing On
 - GenAI Integration: Building LLM-powered applications using Hugging Face transformers.
-- Data Scalability: Optimizing large-scale data workflows, recently achieving a 70% increase in processing speed and 50% cost reduction by migrating to PySpark.
+- Data Scalability: Optimizing large-scale data workflows, recently achieved a 70% increase in processing speed and 50% cost reduction by migrating to PySpark.
 - Engineering Excellence: Establishing best practices for team mentorship and enterprise risk governance (AVA/ARA).
 
 ### 📫 Let’s connect!   
